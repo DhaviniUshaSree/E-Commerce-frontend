@@ -1,0 +1,37 @@
+.admin-dashboard {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.admin-form {
+  margin-bottom: 24px;
+}
+
+.admin-input {
+  display: block;
+  margin-bottom: 8px;
+  width: 100%;
+}
+
+.admin-add-btn {
+  padding: 8px 16px;
+}
+
+.admin-product-list {
+  list-style: none;
+  padding: 0;
+}
+
+.admin-product-item {
+  margin-bottom: 12px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
+}
+
+.admin-delete-btn {
+  margin-left: 16px;
+  color: red;
+} 
